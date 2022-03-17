@@ -1,5 +1,6 @@
 <?php
 ob_start();
+$GLOBALS['title'] = 'Page 1';
 ?>
 
 <div class="background">

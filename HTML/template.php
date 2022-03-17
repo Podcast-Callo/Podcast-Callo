@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <link rel="stylesheet" href="CSS/style.css">
-    <title>Podcast Callo</title>
+    <title><?= $GLOBALS['title'] ?></title>
   </head>
   <body>
     <?php require("HTML/navbar.php"); ?>

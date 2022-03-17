@@ -5,8 +5,8 @@
     </label>
 
     <ul class="menu__box">
-      <li><a class="menu__item" href="#">Podcast</a></li>
-      <li><a class="menu__item" href="#">Page 1</a></li>
+      <li><a class="menu__item" href="http://localhost/Podcast_Callo/">Podcast</a></li>
+      <li><a class="menu__item" href="http://localhost/Podcast_Callo/page1">Page 1</a></li>
       <li><a class="menu__item" href="#">Page 2</a></li>
       <li><a class="menu__item" href="#">Page 3</a></li>
       <li><a class="menu__item" href="#">Page 4</a></li>

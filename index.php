@@ -6,6 +6,9 @@ $GLOBALS['url'] = '';
 //Initialization $content
 $GLOBALS['content'] = '';
 
+//Initialization $title
+$GLOBALS['title'] = '';
+
 //Convert url to array
 if (isset($_GET['url'])) {
     $GLOBALS['url'] = explode('/', $_GET['url']);
