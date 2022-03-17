@@ -7,8 +7,8 @@
     <ul class="menu__box">
       <li><a class="menu__item" href="http://localhost/Podcast_Callo/">Podcast</a></li>
       <li><a class="menu__item" href="http://localhost/Podcast_Callo/page1">Page 1</a></li>
-      <li><a class="menu__item" href="#">Page 2</a></li>
-      <li><a class="menu__item" href="#">Page 3</a></li>
-      <li><a class="menu__item" href="#">Page 4</a></li>
+      <li><a class="menu__item" href="http://localhost/Podcast_Callo/page2">Page 2</a></li>
+      <li><a class="menu__item" href="http://localhost/Podcast_Callo/page3">Page 3</a></li>
+      <li><a class="menu__item" href="http://localhost/Podcast_Callo/page4">Page 4</a></li>
     </ul>
 </div>
