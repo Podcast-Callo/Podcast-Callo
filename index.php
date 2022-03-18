@@ -18,19 +18,22 @@ if (isset($_GET['url'])) {
 
 try {
   if (($GLOBALS['url'] == '')) { //Home
-      require('HTML/home.php');
+      require('view/home.php');
 
   } elseif ($GLOBALS['url'][0] == 'page1') { //Connexion
-      require('HTML/page1.php');
+      require('view/page1.php');
 
   }elseif ($GLOBALS['url'][0] == 'page2') { //Connexion
-          require('HTML/page2.php');
+          require('view/page2.php');
 
   } elseif ($GLOBALS['url'][0] == 'page3') { //Connexion
-          require('HTML/page3.php');
+          require('view/page3.php');
 
   }elseif ($GLOBALS['url'][0] == 'page4') { //Connexion
-          require('HTML/page4.php');
+          require('view/page4.php');
+
+  }elseif ($GLOBALS['url'][0] == 'contact') { //Connexion
+          require('view/contact.php');
   }
 } catch (\Exception $e) {
   print_r($e);
@@ -39,4 +42,4 @@ try {
 
 //echo($GLOBALS['url'][0]);
 
-require("HTML/template.php");
+require("view/template.php");
