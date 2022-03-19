@@ -42,14 +42,23 @@
 	font-weight: var(--plyr-font-weight-regular, 400);
 	line-height: 1.7;
 	line-height: var(--plyr-line-height, 1.7);
+
   /* taille max de la barre */
 	max-width: 20%;
-  /*------*/
 	min-width: 200px;
+	/*------*/
+
+	/* position du lecteur */
+	margin-left: 25px;
+	margin-right : auto;
+	margin-top: 50px;
+	margin-bottom: auto;
+	/*------*/
+
 	position: relative;
 	text-shadow: none;
 	transition: box-shadow .3s ease;
-	z-index: 0
+	z-index: 0;
 }
 
 .plyr audio,
