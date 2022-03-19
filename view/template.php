@@ -12,6 +12,8 @@
   <body>
     <?php require("view/navbar.php"); ?>
     <?= $GLOBALS['content'] ?>
+
+
   </body>
 
 </html>

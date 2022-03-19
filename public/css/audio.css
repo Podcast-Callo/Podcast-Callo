@@ -44,21 +44,39 @@
 	line-height: var(--plyr-line-height, 1.7);
 
   /* taille max de la barre */
-	max-width: 20%;
+	max-width: 40%;
 	min-width: 200px;
 	/*------*/
 
 	/* position du lecteur */
-	margin-left: 25px;
-	margin-right : auto;
-	margin-top: 50px;
+	left: 340px;
+	margin-top: 350px;
 	margin-bottom: auto;
 	/*------*/
 
 	position: relative;
 	text-shadow: none;
 	transition: box-shadow .3s ease;
-	z-index: 0;
+	z-index: 2;
+}
+
+.plyr--audio {
+	display: block
+}
+
+.plyr--audio .plyr__controls {
+	background: #fff;
+	/*couleur contour player (par défault : blanc)*/
+	background: var(--plyr-audio-controls-background); /*par défault : background: var(--plyr-audio-controls-background, #fff);*/
+	/*---------*/
+
+	/* bord arrondi */
+	border-radius: 30px;
+	/*--------*/
+	color: #4a5464;
+	color: var(--plyr-audio-control-color, #25272b);
+	padding: 10px;
+	padding: var(--plyr-control-spacing, 10px)
 }
 
 .plyr audio,
@@ -945,19 +963,7 @@ a.plyr__control::before {
 	width: auto
 }
 
-.plyr--audio {
-	display: block
-}
 
-.plyr--audio .plyr__controls {
-	background: #fff;
-	background: var(--plyr-audio-controls-background, #fff);
-	border-radius: inherit;
-	color: #4a5464;
-	color: var(--plyr-audio-control-color, #4a5464);
-	padding: 10px;
-	padding: var(--plyr-control-spacing, 10px)
-}
 
 .plyr--audio .plyr__control.plyr__tab-focus,
 .plyr--audio .plyr__control:hover,

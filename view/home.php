@@ -21,6 +21,11 @@ $GLOBALS['title'] = 'Podcats Callo';
 
 <!-- Fin colonne droite -->
 
+
+<!-- Partie Podcats -->
+
+<img id="image_presentation" src="public\img\abstract-smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-website-template-backdrop.jpg" alt="test">
+
 <audio controls id="player">
     <source src="https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.ogg" type="audio/ogg">
     <source src="https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3" type="audio/mpeg">
@@ -28,6 +33,16 @@ $GLOBALS['title'] = 'Podcats Callo';
 </audio>
 
 <script src="https://cdn.jsdelivr.net/gh/CDNSFree2/Plyr/plyr.min.js"></script>
+
+<!-- Fin Partie Podcats -->
+
+<!-- miniature -->
+<img id="miniature" src="public/img/miniature.png">
+<!-- Fin de la partie miniature -->
+
+<!-- Description Podcats -->
+<p id="description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ex risus, cursus vel ullamcorper id, condimentum et ante. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce in ultricies erat. Aenean nec est enim. Vestibulum eu accumsan velit, in tincidunt elit. Suspendisse pellentesque ligula at sagittis porttitor. Sed faucibus dui sed massa ullamcorper, vel consectetur tortor dictum. Morbi varius varius est, euismod fermentum orci pulvinar quis. Quisque varius scelerisque scelerisque. Nullam eleifend orci dapibus libero sagittis vulputate. Vivamus quam ex, ultrices elementum erat ut, finibus condimentum lorem. Sed semper, magna fermentum imperdiet tempor, felis arcu dignissim justo, quis interdum massa nisi id libero. Aenean nisi ante, aliquam consequat molestie ac, rutrum eget mi. Phasellus quis laoreet mi. </p>
+<!-- Fin Description Podcats -->
 
 </body>
  <?php

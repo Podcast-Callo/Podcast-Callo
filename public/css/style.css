@@ -1,3 +1,35 @@
+#footer{
+  background-color: yellow;
+  position: absolute;
+  bottom: 10px;
+}
+
+#description{
+  position: absolute;
+  /*width: 1180px;
+  margin-left: 50px;*/
+  left: 158px;
+  right: 398px;
+  background-color: green;
+  text-align: justify;
+}
+
+#miniature{
+  position: absolute;
+  top: 170px;
+  left: 400px;
+  width: 500px;
+  z-index: 1;
+}
+
+#image_presentation{
+  position: absolute;
+  margin-left: 50px;
+  width: 1180px;
+  height: 528.8px;
+  z-index: 0;
+}
+
 #player{
   width: 246px;
 }
