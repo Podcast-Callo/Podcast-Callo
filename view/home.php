@@ -24,7 +24,7 @@ $GLOBALS['title'] = 'Podcats Callo';
 
 <!-- Partie Podcats -->
 
-<img id="image_presentation" src="public\img\abstract-smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-website-template-backdrop.jpg" alt="test">
+<img id="image_presentation" src="public\img\abstract-smooth-dark-blue-with-black-vignette-studio-well-use-as-background-business-report-digital-website-template-backdrop.jpg">
 
 <audio controls id="player">
     <source src="https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.ogg" type="audio/ogg">

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="fr" dir="ltr">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="public/css/style.css">
     <title><?= $GLOBALS['title'] ?></title>
   </head>
@@ -14,7 +14,7 @@
     <?= $GLOBALS['content'] ?>
 
     <footer>
-      <?php require("view/footer.php");?>
+      <?php // require("view/footer.php");?>
 
     </footer>
 

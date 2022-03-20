@@ -1,23 +1,32 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+/*
 .footer{
-  position: absolute;
+  position: inherit;
   background-color: #50c2f9;
-  width: 1496px; /*1536*/
-  bottom: 0px;
+  width: 1496px; /*1536*/ /*
+  bottom: 2px;
   left: 0px;
   display: flex;
   justify-content: space-evenly;
   column-gap: 70px;
 }
-
+*/
 
 #description{
   position: absolute;
   /*width: 1180px;
   margin-left: 50px;*/
-  left: 158px;
+  bottom: 50px;
+  left: 145px;
   right: 398px;
   background-color: green;
   text-align: justify;
+  z-index: 1;
 }
 
 #miniature{
@@ -33,7 +42,7 @@
   margin-left: 50px;
   width: 1180px;
   height: 528.8px;
-  z-index: 0;
+  z-index: 1;
 }
 
 #player{
@@ -41,10 +50,12 @@
 }
 
 .colonne_info {
+  position: absolute;
   text-align: justify;
   background-color: green;
-  float: right;
+  right: 10px;
   width: 275px;
+  z-index: 0;
 }
 
 .background {
@@ -54,18 +65,23 @@
 .bandeau {
   background-color: yellow;
   height: 100px;
-  margin-left: 155px;
+	top: 5px;
+	right: 10px;
+  margin-left: 165px;
   position: relative;
   text-align: center;
+  z-index: 2;
 }
 
 .logo {
+	top: 5px;
   background-color: grey;
   width: 100px;
   height: 100px;
   margin-left: 50px;
   position: absolute;
   text-align: center;
+  z-index: 2;
 }
 
 #menu__toggle {

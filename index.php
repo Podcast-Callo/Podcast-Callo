@@ -20,8 +20,8 @@ try {
   if (($GLOBALS['url'] == '')) { //Home
       require('view/home.php');
 
-  } elseif ($GLOBALS['url'][0] == 'page1') { //Connexion
-      require('view/page1.php');
+  } elseif ($GLOBALS['url'][0] == 'podcast') { //Connexion
+      require('view/podcast.php');
 
   }elseif ($GLOBALS['url'][0] == 'page2') { //Connexion
           require('view/page2.php');
@@ -34,6 +34,9 @@ try {
 
   }elseif ($GLOBALS['url'][0] == 'contact') { //Connexion
           require('view/contact.php');
+
+  }elseif ($GLOBALS['url'][0] == 'responsive') { //Connexion
+          require('view/responsive.php');
   }
 } catch (\Exception $e) {
   print_r($e);

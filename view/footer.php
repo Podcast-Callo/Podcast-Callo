@@ -5,7 +5,6 @@
         <a class="footer_item" href="http://localhost/Podcast_Callo/">Podcast</a>
         <a class="footer_item" href="http://localhost/Podcast_Callo/info1">Info 1</a>
         <a class="footer_item" href="http://localhost/Podcast_Callo/info2">Info 2</a>
-        <a class="footer_item" href="http://localhost/Podcast_Callo/info3">Info 3</a>
       </ul>
     </FONT>
   </div>
