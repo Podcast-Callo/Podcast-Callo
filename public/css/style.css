@@ -1,8 +1,14 @@
-#footer{
-  background-color: yellow;
+.footer{
   position: absolute;
-  bottom: 10px;
+  background-color: #50c2f9;
+  width: 1496px; /*1536*/
+  bottom: 0px;
+  left: 0px;
+  display: flex;
+  justify-content: space-evenly;
+  column-gap: 70px;
 }
+
 
 #description{
   position: absolute;

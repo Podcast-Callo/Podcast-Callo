@@ -13,6 +13,10 @@
     <?php require("view/navbar.php"); ?>
     <?= $GLOBALS['content'] ?>
 
+    <footer>
+      <?php require("view/footer.php");?>
+
+    </footer>
 
   </body>
 
