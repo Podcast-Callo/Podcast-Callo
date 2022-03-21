@@ -1,3 +1,5 @@
+##################################################
+
 #active la réécriture d'url
 RewriteEngine On
 
@@ -8,3 +10,5 @@ RewriteRule ^(.*)$ index.php?url=$1 [NC,L]
 
 #empêche index of/
 Options -Indexes
+
+##################################################

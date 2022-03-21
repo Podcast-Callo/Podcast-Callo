@@ -81,7 +81,7 @@ html, body {
   margin-left: 50px;
   position: absolute;
   text-align: center;
-  z-index: 2;
+  z-index: 1;
 }
 
 #menu__toggle {
