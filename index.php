@@ -48,6 +48,7 @@ try {
           require('view/page/equipe.php');
 
         }
+
 } catch (\Exception $e) {
   print_r($e);
 }
