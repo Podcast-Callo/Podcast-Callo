@@ -44,6 +44,9 @@ try {
   }elseif ($GLOBALS['url'][0] == 'template_podcast') { //Connexion
           require('view/template/template_podcast.php');
 
+  }elseif ($GLOBALS['url'][0] == 'equipe') { //Connexion
+          require('view/page/equipe.php');
+
         }
 } catch (\Exception $e) {
   print_r($e);

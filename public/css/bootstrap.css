@@ -2398,10 +2398,13 @@ textarea.form-control-lg {
   border-radius: 0.25rem;
 }
 
+/* Triée par ...*/
 .form-select {
   display: block;
-  width: 100%;
-  padding: 0.375rem 2.25rem 0.375rem 0.75rem;
+  position: absolute;
+  right: 50px;
+  width: 20%;
+  padding: 8px 0 12px 1em;
   -moz-padding-start: calc(0.75rem - 3px);
   font-size: 1rem;
   font-weight: 400;
@@ -2419,6 +2422,8 @@ textarea.form-control-lg {
   -moz-appearance: none;
   appearance: none;
 }
+/*Triée par ...*/
+
 @media (prefers-reduced-motion: reduce) {
   .form-select {
     transition: none;
@@ -5038,13 +5043,19 @@ textarea.form-control-lg {
   }
 }
 
+/* List group equipe */
+
 .list-group {
   display: flex;
   flex-direction: column;
   padding-left: 0;
   margin-bottom: 0;
   border-radius: 0.25rem;
+  width: 50%;
+  margin-left: 50px;
 }
+
+/*--------*/
 
 .list-group-numbered {
   list-style-type: none;

@@ -11,5 +11,6 @@
       <li><a class="menu__item" href="http://localhost/Podcast_Callo/page3">Page 3</a></li>
       <li><a class="menu__item" href="http://localhost/Podcast_Callo/page4">Page 4</a></li>
       <li><a class="menu__item" href="http://localhost/Podcast_Callo/responsive">Responsive Téléphone</a></li>
+      <li><a class="menu__item" href="http://localhost/Podcast_Callo/equipe">Équipe</a></li>
     </ul>
 </div>
