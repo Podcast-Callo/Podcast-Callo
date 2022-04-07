@@ -15,7 +15,7 @@ $GLOBALS['title'] = 'Équipe';
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/Neajflow">
           <img src="https://avatars.githubusercontent.com/u/82968018?v=4" alt="@Neajflow" width="32" height="32" class="rounded me-2" loading="lazy">
           <span>
-            <strong>Boufort Jean</strong> @Neajflow
+            <strong>Bouffort Jean</strong> @Neajflow
           </span>
     </a>
     <a class="list-group-item list-group-item-action d-flex align-items-center" href="https://github.com/tchar829">

@@ -40,7 +40,7 @@ $GLOBALS['title'] = 'Tous les podcasts';
     <div class="card-body">
       <h5 class="card-title">Nom de la Podcast</h5>
       <p class="card-text">Date de l'enregistrement / publication + description</p>
-      <a href="http://localhost/Podcast_Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
+      <a href="http://localhost/Podcast-Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
     </div>
     </div>
 
@@ -49,7 +49,7 @@ $GLOBALS['title'] = 'Tous les podcasts';
     <div class="card-body">
       <h5 class="card-title">Nom de la Podcast</h5>
       <p class="card-text">Date de l'enregistrement / publication + description</p>
-      <a href="http://localhost/Podcast_Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
+      <a href="http://localhost/Podcast-Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
     </div>
     </div>
 
@@ -58,7 +58,7 @@ $GLOBALS['title'] = 'Tous les podcasts';
     <div class="card-body">
       <h5 class="card-title">Nom de la Podcast</h5>
       <p class="card-text">Date de l'enregistrement / publication + description</p>
-      <a href="http://localhost/Podcast_Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
+      <a href="http://localhost/Podcast-Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
     </div>
     </div>
 
@@ -67,7 +67,7 @@ $GLOBALS['title'] = 'Tous les podcasts';
     <div class="card-body">
       <h5 class="card-title">Nom de la Podcast</h5>
       <p class="card-text">Date de l'enregistrement / publication + description</p>
-      <a href="http://localhost/Podcast_Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
+      <a href="http://localhost/Podcast-Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
     </div>
     </div>
 
@@ -76,7 +76,7 @@ $GLOBALS['title'] = 'Tous les podcasts';
     <div class="card-body">
       <h5 class="card-title">Nom de la Podcast</h5>
       <p class="card-text">Date de l'enregistrement / publication + description</p>
-      <a href="http://localhost/Podcast_Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
+      <a href="http://localhost/Podcast-Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
     </div>
     </div>
 
@@ -85,7 +85,7 @@ $GLOBALS['title'] = 'Tous les podcasts';
     <div class="card-body">
       <h5 class="card-title">Nom de la Podcast</h5>
       <p class="card-text">Date de l'enregistrement / publication + description</p>
-      <a href="http://localhost/Podcast_Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
+      <a href="http://localhost/Podcast-Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
     </div>
     </div>
 
@@ -94,7 +94,7 @@ $GLOBALS['title'] = 'Tous les podcasts';
     <div class="card-body">
       <h5 class="card-title">Nom de la Podcast</h5>
       <p class="card-text">Date de l'enregistrement / publication + description</p>
-      <a href="http://localhost/Podcast_Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
+      <a href="http://localhost/Podcast-Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
     </div>
     </div>
 
@@ -103,7 +103,7 @@ $GLOBALS['title'] = 'Tous les podcasts';
     <div class="card-body">
       <h5 class="card-title">Nom de la Podcast</h5>
       <p class="card-text">Date de l'enregistrement / publication + description</p>
-      <a href="http://localhost/Podcast_Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
+      <a href="http://localhost/Podcast-Callo/podcast1" class="btn btn-primary">Écouter le podcast <?php $GLOBALS['title'] = 'Podcast1'; $GLOBALS['src'] = 'https://cdn.plyr.io/static/demo/Kishi_Bashi_-_It_All_Began_With_a_Burst.mp3 '; ?> </a>
     </div>
     </div>
 

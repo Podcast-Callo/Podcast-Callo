@@ -23,31 +23,40 @@ try {
   if (($GLOBALS['url'] == '')) { //Home
       require('view/page/home.php');
 
-  } elseif ($GLOBALS['url'][0] == 'podcast') { //Connexion
+  } elseif ($GLOBALS['url'][0] == 'podcast') {
       require('view/page/podcast.php');
 
-  }elseif ($GLOBALS['url'][0] == 'page2') { //Connexion
+  }elseif ($GLOBALS['url'][0] == 'page2') {
           require('view/page/page2.php');
 
-  } elseif ($GLOBALS['url'][0] == 'page3') { //Connexion
+  } elseif ($GLOBALS['url'][0] == 'page3') {
           require('view/page/page3.php');
 
-  }elseif ($GLOBALS['url'][0] == 'page4') { //Connexion
+  }elseif ($GLOBALS['url'][0] == 'page4') {
           require('view/page/page4.php');
 
-  }elseif ($GLOBALS['url'][0] == 'contact') { //Connexion
-          require('view//page/contact.php');
+  }elseif ($GLOBALS['url'][0] == 'contact') {
+          require('view/page/contact.php');
 
-  }elseif ($GLOBALS['url'][0] == 'responsive') { //Connexion
+  }elseif ($GLOBALS['url'][0] == 'responsive') {
           require('view/responsive.php');
 
-  }elseif ($GLOBALS['url'][0] == 'template_podcast') { //Connexion
+  }elseif ($GLOBALS['url'][0] == 'template_podcast') {
           require('view/template/template_podcast.php');
 
-  }elseif ($GLOBALS['url'][0] == 'equipe') { //Connexion
+  }elseif ($GLOBALS['url'][0] == 'equipe') {
           require('view/page/equipe.php');
 
-        }
+    
+
+}
+
+// test
+
+
+
+
+//
 
 } catch (\Exception $e) {
   print_r($e);
